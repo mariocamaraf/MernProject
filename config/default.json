@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mcamara:mcamara@devconnector-hrdbu.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
