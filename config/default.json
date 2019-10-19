@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://mcamara:mcamara@devconnector-hrdbu.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "d420459cda6e9f6576dd",
+  "githubSecret": "4ce319e1dcfef61b58bbbc32a93c2e1cf1074ede"
 }
